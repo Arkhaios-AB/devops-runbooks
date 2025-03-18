@@ -1,0 +1,14 @@
+{
+  "name": "devops-runbooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "claude"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@anthropic-ai/claude-code": "^0.2.48"
+  }
+}
