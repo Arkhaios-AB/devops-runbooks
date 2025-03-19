@@ -8,7 +8,7 @@ This application is fully instrumented with opentelemetry and traces are availab
 
 ## 1. Confirm the alert
 
-Run the following prometheus query. Use start and end time that surround the alert trigger time with +/- 1 hour:
+Always run the following prometheus query. Use start and end time that surround the alert trigger time with +/- 1 hour:
 
 ```
 histogram_quantile(0.9, sum(rate(http_request_duration_seconds_bucket[5m])) by (le))
