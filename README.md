@@ -58,6 +58,7 @@ A comprehensive collection of DevOps runbooks for troubleshooting common Kuberne
 | **Security** | [Image Pull Secret Issues](./security/image-pull-secret-issues.md) | Fix private registry authentication | • ImagePullBackOff due to auth failures<br>• Private registry access issues<br>• Secret configuration problems |
 | **Security** | [Audit Logging Issues](./security/audit-logging-issues.md) | Troubleshoot audit logging problems | • Missing audit logs<br>• Incorrect audit policy<br>• Log storage and retention issues |
 | **Security** | [Cluster Backup and Restore](./security/cluster-backup-restore.md) | Manage cluster data backup and recovery | • Need to recover from data loss<br>• etcd data corruption<br>• Failed cluster upgrades |
+| **Application**| [MinishopHighLatency](./application/minishop-high-latency.md) | Investigate high latency issues | • High latency alert is triggered |
 
 ## How to Use These Runbooks
 
