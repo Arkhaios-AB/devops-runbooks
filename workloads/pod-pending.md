@@ -265,5 +265,6 @@ kubectl rollout restart daemonset <cni-daemonset> -n kube-system
 * [Node Not Ready](../cluster/node-not-ready.md)
 * [PVC Stuck in Pending](../storage/pvc-pending.md)
 * [Pod Stuck in ContainerCreating](./pod-container-creating.md)
+* [Pod Not Ready](./pod-not-ready.md)
 * [Pod ImagePullBackOff](./pod-imagepullbackoff.md)
 * [Resource Quota Issues](../resources/resource-quota-issues.md)

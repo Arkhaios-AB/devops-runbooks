@@ -190,3 +190,4 @@ kubectl uncordon <node-name>
 * [Kubelet Issues](./kubelet-issues.md)
 * [Certificate Issues](./certificate-issues.md)
 * [CNI Plugin Issues](../networking/cni-plugin-issues.md)
+* [Pod Not Ready](../workloads/pod-not-ready.md)

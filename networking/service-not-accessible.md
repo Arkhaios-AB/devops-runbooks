@@ -311,3 +311,4 @@ kubectl rollout restart daemonset <cni-daemonset> -n kube-system
 * [CNI Plugin Issues](./cni-plugin-issues.md)
 * [Pod-to-Pod Communication Issues](./pod-to-pod-communication.md)
 * [CoreDNS Issues](./coredns-issues.md)
+* [Pod Not Ready](../workloads/pod-not-ready.md)
